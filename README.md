@@ -1,28 +1,73 @@
-# Hi there, I'm Opeyemi Akintayo! 
-## Business Data Analyst | Power BI | SQL | Python | Excel
-I am a Business Data Analyst passionate about transforming data into actionable insights that drive informed business decisions. I specialize in data analysis, business intelligence, dashboard development, and data visualization, helping organizations identify trends, measure performance, and uncover growth opportunities.
-My expertise includes cleaning and transforming data, writing efficient SQL queries, building interactive Power BI dashboards, automating reporting processes, and performing analytical tasks using Python and Excel. I enjoy solving business problems with data and communicating insights through clear, impactful visualizations.
+#  Hi, I'm Opeyemi Akintayo
+
+I am a detail-oriented and results-driven Data Analyst passionate about transforming raw data into meaningful insights. I specialize in data cleaning, analysis, and visualization to support informed decision-making and solve real-world problems.
+
 ---
-##  Technical Skills
--  Power BI
--  SQL
--  Python
--  Microsoft Excel
--  Data Cleaning & Transformation
--  Data Visualization
--  Business Intelligence
--  Dashboard Development
--  Data Modeling
--  KPI Reporting
+
+##  About Me
+
+*  I love uncovering trends and patterns in data
+*  I build dashboards and data visualizations
+*  Skilled in data cleaning and preprocessing
+*  Focused on delivering actionable insights
+
 ---
-##  Currently Working On
-- Building interactive Power BI dashboards
-- Enhancing SQL and Python analytics projects
-- Developing end-to-end business intelligence solutions
-- Expanding my data analytics portfolio
+
+##  Tech Stack
+
+###  Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+
+###  Data Visualization
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=Tableau\&logoColor=white)
+
+Matplotlib • Seaborn
+
+###  Data Handling
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+Pandas • NumPy
+
+###  Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+###  Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
 ---
+
+##  GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+##  Projects
+
+ Explore my repositories to find:
+
+* Exploratory Data Analysis (EDA)
+* Dashboard Development
+* Real-world Data Case Studies
+
+---
+
 ##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/opeyemiakintayo36/)
- **Email:** opeyemiakintayo@hotmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/opeyemiakintayo36/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](https://davidakintayo100.github.io/)
+
 ---
- Thank you for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate on data analytics, business intelligence, or data-driven projects.
+
+⭐ *Feel free to explore my projects and connect with me!*
