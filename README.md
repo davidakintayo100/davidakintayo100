@@ -1,6 +1,6 @@
 #  Hi, I'm Opeyemi Akintayo
 
-I am a detail-oriented and results-driven Data Analyst passionate about transforming raw data into meaningful insights. I specialize in data cleaning, analysis, and visualization to support informed decision-making and solve real-world problems.
+I am a Detail-oriented and results driven Data Analyst passionate about transforming raw data into meaningful insights. I specialize in data cleaning, analysis, and visualization to support informed decision-making and solve real world problems.
 
 ---
 
